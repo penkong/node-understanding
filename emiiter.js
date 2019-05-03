@@ -16,5 +16,6 @@ Emitter.prototype.emit = function (type) {
     });
   }
 }
-
+// this file equal is to events of node js 
+// actually in node js events lib do this for us consider that
 module.exports = Emitter;
